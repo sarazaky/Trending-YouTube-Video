@@ -1,0 +1,14 @@
+h1{
+    color: rgb(16, 0, 255);
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+h3{
+    margin-top: 50px;
+}
+
+.dash-dropdown, h5 {
+    display: inline-block;
+    width: 50%;
+}
