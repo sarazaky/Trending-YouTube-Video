@@ -1,6 +1,6 @@
 h1{
     color: rgb(16, 0, 255);
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     text-align: center;
 }
 
@@ -11,4 +11,17 @@ h3{
 .dash-dropdown, h5 {
     display: inline-block;
     width: 50%;
+}
+
+label {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.con {
+    display: flex;
+}
+
+.con>div {
+    width: 100%;
 }
