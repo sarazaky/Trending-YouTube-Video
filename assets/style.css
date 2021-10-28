@@ -1,16 +1,7 @@
-h1{
-    color: rgb(16, 0, 255);
-    margin-bottom: 60px;
+h4{
+    color: #0d0581;
+    margin-bottom: 30px;
     text-align: center;
-}
-
-h3{
-    margin-top: 50px;
-}
-
-.dash-dropdown, h5 {
-    display: inline-block;
-    width: 50%;
 }
 
 label {
@@ -20,8 +11,34 @@ label {
 
 .con {
     display: flex;
+    position: relative;
 }
 
 .con>div {
-    width: 100%;
+    width: 99%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+    margin-bottom:20px;
+}
+
+.con>div:last-child #cat_figure{
+    width: 80%;
+    display: inline-block;
+    margin: auto
+
+}
+
+.con .drop_con {
+    display: inline-block;
+    width: 20%;
+    position: absolute;
+    top: 92px;
+}
+
+p{
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+    color: #0d0581;
 }
