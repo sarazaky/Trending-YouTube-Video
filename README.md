@@ -3,7 +3,7 @@ Interactive Dashboard using Dash and CSS on Trending YouTube Videos dataset
 
 The dashboard shows the distribution of features, Correlation between them, count videos for different Time scales, Shows Views over time, and performs some statistics on videos categories
 
-# Demo: 
+# Demo
 
 https://youtu.be/cBR3ATIRBOM
 
